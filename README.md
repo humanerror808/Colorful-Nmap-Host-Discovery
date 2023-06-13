@@ -1,1 +1,1 @@
-# Colorful-Nmap-Host-Discovery
+This is a simple Python script that performs an aesthetic Nmap host discovery on the subnet 192.168.1.1/24. The script utilizes the Nmap tool to scan the specified subnet and provides a visually appealing output.
